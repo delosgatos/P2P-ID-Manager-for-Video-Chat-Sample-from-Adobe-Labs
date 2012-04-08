@@ -1,3 +1,9 @@
+There is pure AS3 client files for connecting thought the http request to the php service.
+In your client application use 
+com.delosgatos.remote.storage.id.IdManagerService
+it include init method where you can set url of php service and name, id of client
+
+
 Protocol description. This is a very simple protocol for user registration 
 (or unregistration) and lookup.
  
